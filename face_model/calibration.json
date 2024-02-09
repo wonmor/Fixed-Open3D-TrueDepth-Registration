@@ -1,0 +1,33 @@
+{
+  "extrinsic" : [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+  ],
+  "intrinsicReferenceDimensionWidth" : 4032,
+  "pixelSize" : 0.0010000000474974513,
+  "lensDistortionLookup" : "AAAAAHo+0jhUe9E5dzxqOk9tzjo+eh87n3xiO7KXlzsRKsI7Sz\/wOxSGEDyD2Sk8xaNDPLRpXTwfrnY8lnqHPBrkkjzgXJ0807SmPGrErjxJbrU8c6C6PNNUvjwJkcA8T2XBPGLqwDx6Pr88XYG8PNDPuDy3PrQ8e9auPHCPqDxGUKE87e+YPIw8jzy5CYQ84JBuPHZXUjwAuzQ8WY8YPD\/vAjwzlfg7",
+  "lensDistortionCenter" : [
+    2016.4998779296875,
+    1512.5
+  ],
+  "intrinsic" : [
+    2722.747802734375,
+    0,
+    0,
+    0,
+    2722.747802734375,
+    0,
+    2016.4998779296875,
+    1512.5,
+    1
+  ],
+  "inverseLensDistortionLookup" : "AAAAAEvL0Lhn4c+56ihoul1BzLpyeR27bxtfu1rvlLu+OL67B6\/qu1nEDLyq+CS804Y9vP3\/Vbxr9m28\/H+CvEhcjbxdYpe8B2qgvL5RqLyl\/668VGK0vE1xuLwKLbu8hJ68vBXWvLye6bu85PG5vCUHt7wDPbO8D56uvHUnqbyhxaK8EVObvB2bkrw2Y4i8E\/x4vGTaXbx\/L0C8YzsivEikCLyil\/e7",
+  "intrinsicReferenceDimensionHeight" : 3024
+}
